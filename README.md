@@ -2,7 +2,7 @@
 
 A simple music player app created in Flutter that allows users to search Apple Itunes library for songs, based on any artist name.
 
-## Supported devices
+## Supported Devices
 
 - The app can be run on both iOS and Android platforms, although at the current stage it has only been tested on Android. 
 - The app supports Android devices running __Android Marshmallow (6.0)__ or newer.
@@ -15,11 +15,11 @@ A simple music player app created in Flutter that allows users to search Apple I
 * Play a 30-second preview for each result
 * Use music controls including play, pause, next/previous track buttons and a volume adjustment slider
 
-## Features in action
+## Features in Action
 
 <img src="./assets/images/music_player.gif" alt="drawing" width="350"/>
 
-## Requirements to build
+## Requirements to Build
 
 * Flutter SDK (version 2.0.3 or newer) and its requirements as explained in the link below:
 
@@ -27,7 +27,7 @@ A simple music player app created in Flutter that allows users to search Apple I
 https://flutter.dev/docs/get-started/install
 ```
 
-## Instructions to build
+## Instructions to Build
 
 **Step 0:**
 
@@ -53,7 +53,7 @@ flutter pub get
 
 Run the app on an Android emulator/device (based on the [Supported Devices](#supported-devices))
 
-## Instructions to deploy (for Android)
+## Instructions to Deploy (for Android)
 
  Build/release as desired using the information provided in the link below:
 
@@ -61,7 +61,7 @@ Run the app on an Android emulator/device (based on the [Supported Devices](#sup
 https://flutter.dev/docs/deployment/android
 ```
 
-### Packages used
+### Packages Used
 
 * [http](https://pub.dev/packages/http)
 * [audioplayers](https://pub.dev/packages/audioplayers)
